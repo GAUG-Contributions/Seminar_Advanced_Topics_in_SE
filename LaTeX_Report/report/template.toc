@@ -1,0 +1,15 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Obfuscation Methods for Source Code Plagiarism}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Lexical changes}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Structural changes}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Advanced structural changes}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Logical changes}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Obfuscation Methods for Natural Languages}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Substitution methods - whitespace, alphabet or words}{7}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Usage of "invisible" characters}{8}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Available Tools for detecting Source Code Plagiarism}{9}{section.4}%
+\contentsline {section}{\numberline {5}Conclusion}{11}{section.5}%
+\contentsline {section}{Abbreviations and Acronyms}{12}{section*.5}%
+\contentsline {section}{List of Tables}{12}{section*.6}%
+\contentsline {section}{List of Figures}{12}{section*.7}%
